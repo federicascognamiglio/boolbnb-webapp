@@ -1,0 +1,45 @@
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+.logo{
+    width: 100px;
+    height: 60px;
+}
+
+.my-btn {
+    color: #013220 !important;
+    background-color: #ffd400 !important;
+}
+
+.my-btn-inverse {
+    background-color: #013220 !important;
+    color: gold !important;
+}
+
+.outline {
+    border: 1px solid #013220;
+    color: #013220; 
+}
+
+.not-found{
+    height: 70vh;
+}
+
+.truncate {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 20ch;
+}
+
+.navbar-toggler {
+    border: 1px solid #FFD700;     
+    background-color: #013220;        
+  }
+
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'><path stroke='%23FFD700' stroke-width='1' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  }
